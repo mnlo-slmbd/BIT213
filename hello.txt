@@ -8,6 +8,6 @@
 <H1> This is my headings  </H1>
 <H2> This is my second heading  </H2>
 
-<p>   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi et incidunt ab, nulla quidem recusandae velit voluptatem voluptatibus odio commodi eum mollitia culpa vel unde, delectus quaerat voluptate beatae sit? </p>
+<p>   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi et incidunt ab, nulla quidem recusandae velit voluptatem voluptatibus odio commodi eum mollitia culpa vel unde, delectus quaerat voluptate beatae sit?   </p>
 
  <header>
