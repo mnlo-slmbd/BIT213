@@ -6,5 +6,6 @@
 
 
 <H1> This is my headings  </H1>
+<H2> This is my second heading  </H2>
 
  <header>
